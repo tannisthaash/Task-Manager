@@ -1,4 +1,4 @@
-# Task Management Backend
+# Task Manager Backend
 
 API Base URL:
 https://task-manager-t1e3.onrender.com/
